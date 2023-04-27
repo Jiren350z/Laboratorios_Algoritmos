@@ -1,0 +1,20 @@
+C:\Users\diego\Desktop\Nueva carpeta\ex3\bin\Debug\ex3.exe.config
+C:\Users\diego\Desktop\Nueva carpeta\ex3\bin\Debug\ex3.exe
+C:\Users\diego\Desktop\Nueva carpeta\ex3\bin\Debug\ex3.pdb
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.exe
+C:\Users\diego\Desktop\Nueva carpeta\ex3\obj\Debug\ex3.pdb
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\bin\Debug\ex3.exe.config
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\bin\Debug\ex3.exe
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\bin\Debug\ex3.pdb
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.exe
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\ex3\obj\Debug\ex3.pdb

@@ -1,0 +1,15 @@
+Juan,28
+Maria,41
+Pablo,19
+Ana,55
+Carlos,33
+Elena,47
+Diego,25
+Sofia,39
+Alejandro,34
+Lucia,21
+Miguel,44
+Luisa,22
+Javier,51
+Raquel,36
+David,27

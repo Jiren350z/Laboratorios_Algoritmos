@@ -1,0 +1,7 @@
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\bin\Debug\ejemplovisual.exe.config
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\bin\Debug\ejemplovisual.exe
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\bin\Debug\ejemplovisual.pdb
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\obj\Debug\ejemplovisual.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\obj\Debug\ejemplovisual.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\obj\Debug\ejemplovisual.exe
+C:\Users\diego\Desktop\Utalca\Algoritmos y Estructura de Datos\Unidad 1\Laboratorios\Laboratorio_1\ejemplovisual\obj\Debug\ejemplovisual.pdb
